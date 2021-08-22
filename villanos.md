@@ -2,4 +2,3 @@
 
 * Mr. Doom
 * Thanos
-* Capitán Marvel
